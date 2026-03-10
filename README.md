@@ -2,21 +2,6 @@
 
 An AI-powered insurance underwriting research tool built with [Tavily](https://tavily.com). Enter a company name and get a comprehensive underwriting report streamed in real time — covering company background, adverse news, risk assessment, products & services, and claims history.
 
-## Tech Stack
-
-| Layer    | Technologies                                      |
-| -------- | ------------------------------------------------- |
-| Backend  | Python, FastAPI, Uvicorn, httpx                   |
-| Frontend | React 18, TypeScript, Vite, Tailwind CSS          |
-| API      | Tavily Research API (streaming)                   |
-| UI       | Framer Motion, Lucide React                       |
-
-## Prerequisites
-
-- **Python 3.10+**
-- **Node.js 18+** and **npm**
-- A **Tavily API key** — get one at [app.tavily.com](https://app.tavily.com)
-
 ## Getting Started
 
 ### 1. Clone and configure environment
