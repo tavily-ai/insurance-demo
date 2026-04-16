@@ -2,6 +2,8 @@
 
 An AI-powered insurance underwriting research tool built with [Tavily](https://tavily.com). Enter a company name and get a comprehensive underwriting report streamed in real time — covering company background, adverse news, risk assessment, products & services, and claims history.
 
+[![Demo Video](https://img.youtube.com/vi/Hhpvn4iYxGM/maxresdefault.jpg)](https://www.youtube.com/watch?v=Hhpvn4iYxGM)
+
 ## Getting Started
 
 ### 1. Clone and configure environment
